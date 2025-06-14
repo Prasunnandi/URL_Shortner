@@ -65,6 +65,7 @@ Endpoint: GET /{short_code}
 Response: 301 Redirect to original URL
 ```
 🏗 Project Structure
+```
 text
 URL_Shortner/
 ├── backend/
@@ -77,6 +78,7 @@ URL_Shortner/
 │   └── templates/     # HTML templates
 ├── docker-compose.yml # Container config
 └── README.md         # This file
+```
 🛠 Development
 Set up virtual environment:
 
