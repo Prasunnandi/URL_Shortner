@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL Shortener
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
@@ -21,3 +22,6 @@ python backend/models.py
 
 # 3. Run the server
 python backend/app.py
+=======
+# URL_Shortner
+>>>>>>> fae8f750ab6c76d848eab3bf502e8f7c171dfb17
